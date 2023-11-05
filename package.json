@@ -14,14 +14,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/damiansire/react-npm-package-base.git"
+    "url": "git+https://github.com/damiansire/react-npm-package-template.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/damiansire/react-npm-package-base/issues"
+    "url": "https://github.com/damiansire/react-npm-package-template/issues"
   },
-  "homepage": "https://github.com/damiansire/react-npm-package-base#readme",
+  "homepage": "https://github.com/damiansire/react-npm-package-template#readme",
   "devDependencies": {
     "@rollup/plugin-commonjs": "^25.0.4",
     "@rollup/plugin-node-resolve": "^15.2.1",
