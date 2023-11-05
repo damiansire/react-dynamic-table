@@ -9,6 +9,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "storybook": "storybook dev -p 6006",
     "build-storybook": "storybook build",
+    "test-storybook": "test-storybook",
     "build": "rollup -c"
   },
   "repository": {
@@ -33,6 +34,7 @@
     "@storybook/blocks": "^7.5.2",
     "@storybook/react": "^7.5.2",
     "@storybook/react-vite": "^7.5.2",
+    "@storybook/test-runner": "^0.13.0",
     "@storybook/testing-library": "^0.2.2",
     "@types/react": "^18.2.21",
     "@types/styled-components": "^5.1.27",
