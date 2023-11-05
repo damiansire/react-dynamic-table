@@ -1,5 +1,5 @@
 {
-  "name": "diagram-generator",
+  "name": "react-npm-package-template",
   "version": "1.0.0",
   "description": "",
   "main": "lib/index.js",
@@ -14,14 +14,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/damiansire/diagram-generator.git"
+    "url": "git+https://github.com/damiansire/react-npm-package-base.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/damiansire/diagram-generator/issues"
+    "url": "https://github.com/damiansire/react-npm-package-base/issues"
   },
-  "homepage": "https://github.com/damiansire/diagram-generator#readme",
+  "homepage": "https://github.com/damiansire/react-npm-package-base#readme",
   "devDependencies": {
     "@rollup/plugin-commonjs": "^25.0.4",
     "@rollup/plugin-node-resolve": "^15.2.1",
